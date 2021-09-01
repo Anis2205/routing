@@ -1,0 +1,11 @@
+.container {
+    margin-top: 30px;
+  }
+.nav-link{
+   color:black;
+   font-size: large;
+   font-weight: bolder
+ }
+  /* .nav-link:hover{
+    text-decoration:underline;
+  }  */
